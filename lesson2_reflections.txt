@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Makes the directory a repository and can be used for GIT revision control
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It acts as an in between. It les you add a subset of the content in the working directory to be added to the repository as a commit. Only this portion will be version controlled.
